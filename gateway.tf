@@ -61,5 +61,7 @@ resource "azurerm_application_gateway" "network" {
     git_modifiers        = "harkiratbhardwaj/nimrodkor"
     git_org              = "bridgecrewio"
     git_repo             = "terragoat"
+    manny                = "cepeda"
+    yor_trace            = "c222878f-a21a-4169-bcd4-6e6d4dae00f1"
   }
 }
